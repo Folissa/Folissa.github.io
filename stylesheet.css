@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url("/images/front_view.jpg") center center no-repeat;
+    background: url("/images/front_view.jpg") no-repeat center center;
 }
 
 h1 {
