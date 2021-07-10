@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url("/images/front_view.jpg") center;
+    background: url("/images/front_view.jpg") center center fixed;
 }
 
 h1 {
