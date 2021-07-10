@@ -2,7 +2,6 @@
 
 * {
     font-family: 'Poppins', sans-serif;
-    font-size: 4vw;
     margin: 0;
     padding: 0;
 }
@@ -13,6 +12,8 @@ body {
 
 h1 {
     color: #B8D7C5;
+    margin: 7vh 60vw 93vh 40vw;
+    font-size: 5vw;
 }
 
 .button {
