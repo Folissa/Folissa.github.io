@@ -7,13 +7,11 @@
 }
 
 body {
-    background-image: url("/images/front_view.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url("/images/front_view.jpg") center center no-repeat;
 }
 
 h1 {
-    color: #B8D7C5;
+    color: #FFFFFF;
     margin: 7vh 60vw 93vh 40vw;
     font-size: 5vw;
 }
